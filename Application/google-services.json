@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "439821816378",
+    "firebase_url": "https://cnu-2023linc-healthcare-default-rtdb.firebaseio.com",
+    "project_id": "cnu-2023linc-healthcare",
+    "storage_bucket": "cnu-2023linc-healthcare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439821816378:android:1e884ef03587ead68bdb03",
+        "android_client_info": {
+          "package_name": "com.cnu.cnuhealthcare2023linc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439821816378-272nb02v5ieg1b7837rbgn3k24d2ks5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDia9jOlfovlILkwMfIJsQl9NLnVS_ytKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439821816378-272nb02v5ieg1b7837rbgn3k24d2ks5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439821816378:android:0eba231def76fee08bdb03",
+        "android_client_info": {
+          "package_name": "com.example.android.wearable.datalayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439821816378-272nb02v5ieg1b7837rbgn3k24d2ks5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDia9jOlfovlILkwMfIJsQl9NLnVS_ytKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439821816378-272nb02v5ieg1b7837rbgn3k24d2ks5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439821816378:android:fd9c9573e0d0e8938bdb03",
+        "android_client_info": {
+          "package_name": "com.example.cnu2023linchealthcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439821816378-272nb02v5ieg1b7837rbgn3k24d2ks5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDia9jOlfovlILkwMfIJsQl9NLnVS_ytKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439821816378-272nb02v5ieg1b7837rbgn3k24d2ks5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
